@@ -23,7 +23,8 @@ https://github.com/Psyberify/Tech-Learning-Journey/blob/186f21fab592dcf1a7a297e3
 
 ## Explore DNS Query Traffic.
 1. Observe the traffic captured in the Wireshark Packet List pane. Enter udp.port == 53 in the filter box and enter to display only DNS packets.
-https://github.com/Psyberify/Tech-Learning-Journey/blob/186f21fab592dcf1a7a297e38053d0ca24e88956/Cybersecurity/DNS-Packet-Capture/screenshots/Exploring%20DNS%20traffic/DNS%20query%20traffiic.png?raw=true
+![DNS Query Traffic](https://github.com/Psyberify/Tech-Learning-Journey/blob/186f21fab592dcf1a7a297e38053d0ca24e88956/Cybersecurity/DNS-Packet-Capture/screenshots/Exploring%20DNS%20traffic/DNS%20query%20traffiic.png?raw=true)
+
 2. Select the DNS packet contains Standard query and A www.cisco.com in the Info column.
 3. In the Packet Details pane, notice this packet has Ethernet II, Internet Protocol Version 4, User Datagram Protocol and Domain Name System (query).
 4.  Expand Ethernet II to view the details. Observe the source and destination fields.
