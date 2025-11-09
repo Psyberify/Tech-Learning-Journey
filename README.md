@@ -7,7 +7,6 @@ Each folder contains:
 - **README.md** with lab objectives, tools used, steps, findings, and lessons learned  
 - Supporting files such as screenshots, scripts, or packet captures
 
----
 
 ## Learning Focus Areas
 
@@ -26,7 +25,6 @@ Each folder contains:
 - Infrastructure as code (IaC) exercises
 - Scripting repetitive network tasks
 
----
 
 ## How I Use This Repo
 
@@ -34,7 +32,6 @@ Each folder contains:
 - **Tracking progress**: Commits show the evolution of my skills over time.  
 - **Showcasing projects**: Each lab can be shared with recruiters, peers, or mentors as proof of hands-on experience.  
 
----
 
 ## Skills Highlighted
 - Wireshark packet analysis & troubleshooting
@@ -44,12 +41,10 @@ Each folder contains:
 - Version control with Git & GitHub
 - BGP, Spine and Leaf 
 
----
 
-## 🔗 Connect With Me
+## Connect With Me
 - [GitHub Profile](https://github.com/Psyberify)  
 - [LinkedIn](https://www.linkedin.com/in/ifeoma-ndudim)
 
----
 
 *This repository is a work in progress as I continue my journey in Cybersecurity, Networking, and NetDevOps.*
